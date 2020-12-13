@@ -87,6 +87,6 @@ public class Study3 {
 			} else {
 				System.out.println(result[2]);
 			}
-			
+			aaaaa
 	}
 }
