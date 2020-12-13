@@ -88,6 +88,5 @@ public class Study3 {
 				System.out.println(result[2]);
 			}
 			
-			aaaaaa
 	}
 }
